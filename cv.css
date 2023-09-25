@@ -1,0 +1,92 @@
+p {
+    color: black;
+    font-family: 'Ysabeau', sans-serif;
+
+}
+
+
+.imgRedonda {
+  width:140px;
+  height:140px;
+  border-radius:70px;
+  border:4px solid rgb(195, 180, 231);
+}
+
+ul {
+  color: black;
+  font-family: 'Ysabeau', sans-serif;
+}
+
+.work {
+    color: black;
+    font-family: 'Ysabeau', sans-serif;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
+
+h1 {
+    color: black;
+    font-family: 'Ysabeau', sans-serif;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+h2 {
+    color: black;
+    font-family: 'Ysabeau', sans-serif;
+
+
+}
+
+h3 {
+    color: black;
+    font-family: 'Ysabeau', sans-serif;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
+.ranita1 {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.ranita2 {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.header {
+  color: rgb(91, 12, 187);
+  font-size: 30px;
+  font-family: 'Ysabeau', sans-serif;
+  font-family: 'Ysabeau Infant', sans-serif;
+  padding: 10px;
+}
+
+.demo {
+  
+  font-size: 30px;
+  font-family: 'Ysabeau', sans-serif;
+  font-family: 'Ysabeau Infant', sans-serif;
+  
+}
+
+
+.bigicon {
+  font-size: 35px;
+  color: rgb(186, 107, 223);
+}
+
+ body { background-color: bisque;
+background-image: url("f833c1624942eac06007a3be032971ee.jpg");
+}
